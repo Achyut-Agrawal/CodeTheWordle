@@ -4,7 +4,7 @@
 
 ## Project Description: <br>
 
-### Summary: What problem or pain point does it solve?
+### Summary: How it Works?
 This is kind of a study guide, spell out the code terminology and when you complete it can bring up an example or description of what the code function does. Then you can play another round.  <br>
 Recreation of NewYork Times WORDLE game, instead using 5-letter code terminology that we've learned so far. <br>
 User will be able to add a guess by using an on-screen keyboard, the guess will display within tiles above the keyboard.  <br>
