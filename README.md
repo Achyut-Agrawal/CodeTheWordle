@@ -1,12 +1,6 @@
 # Code Wordle
 
-[Click here for the Deployed CODLE Website](https://team-salt-lake-city.github.io/code-wordle/)
-
-Team Member Names: 
-* Ben Carter : [GitHub](https://github.com/MotoBenny) : [LinkedIn](https://www.linkedin.com/in/benjamin-carter-dev/)
-* Tanesha Brester : [GitHub](https://github.com/taneshaa) : [LinkedIn](https://www.linkedin.com/in/taneshabrester/)
-* Cole Gibbs : [GitHub](https://github.com/colegibbs) : [LinkedIn](https://www.linkedin.com/in/cole-gibbs/)
-* Eden Brekke : [GitHub](https://github.com/eden-brekke) : [LinkedIn](https://www.linkedin.com/in/eden-brekke/)
+[Click here for the Deployed CODLE Website](https://achyut-agrawal.github.io/CodeTheWordle/index.html)
 
 ## Project Description: <br>
 
@@ -36,24 +30,3 @@ Create Words to be guessed, and description of that word.  <br>
 Have a CSS change the color of the letters once you get the letter correct and in the correct location or correct and in the wrong location <br>
 Have the game display if a word is not in the object and make it not count as a guess against them <br>
 Have the tiles apply a CSS animation on incorrect guess and correct word guess <br>
-
-
-## Project Management Tool: 
-[GitHub Projects](https://github.com/Team-Salt-Lake-City/code-wordle/projects/1)
-
-[Codle Flowchart](/wireframes/codleflowchart.png)
-
-## Links and References
-Our Instructor : Audrey Patterson  <br>
-[Data-*](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/data-*)
-[querySelector](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)
-[Dataset](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/dataset)
-[Rest Parameters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters)
-[forEach](https://www.w3schools.com/jsref/jsref_foreach.asp)
-[Animations](https://www.w3schools.com/howto/howto_css_shakeimage.asp)
-[Event Listeners](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
-[Set timeout](https://developer.mozilla.org/en-US/docs/Web/API/setTimeout)
-[Element.ClassList](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList)
-[Array.method.map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
-
-
